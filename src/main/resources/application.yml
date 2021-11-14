@@ -7,3 +7,4 @@ spring:
       server:
         git:
           uri: https://github.com/StudyMakerTeam/config-repository
+          default-label: main
